@@ -1,42 +1,32 @@
-# ¡Hola! Soy Raúl Balleza 👋
+# ¡Hola, soy Raul Alejandro López Balleza! 👋
 
-### Sobre mí
-Soy un desarrollador backend apasionado y actualmente trabajo como Technical Lead en una empresa de desarrollo de software. Tengo 24 años y me gusta mantenerme activo tanto mental como físicamente. En mi tiempo libre disfruto de los videojuegos y practico entrenamientos de fuerza en el gimnasio.
+## Acerca de mí
+Soy un apasionado desarrollador de software con experiencia en el desarrollo backend y liderazgo técnico en proyectos de software. Me especializo en tecnologías como .NET, Python (Django) y JavaScript, y tengo un fuerte enfoque en la resolución de problemas y la mejora continua.
 
-### Experiencia Profesional
-Actualmente, lidero un equipo en el desarrollo de un portal de pago de facturas telefonicas. Mi rol principal es gestionar el backend del proyecto, trabajando estrechamente con un equipo de 2 personas y en conjunto con otros equipos. Estoy acostumbrado a trabajar con metodologías ágiles y utilizo Jira para la gestión de proyectos.
+- 💼 Actualmente trabajo como Desarrollador Backend y Líder Técnico en Htech, donde lidero un equipo en el desarrollo y mantenimiento de un portal de pagos de facturas de servicios telefónicos para varios países de América Central.
+- 🎓 Graduado en Ingeniería en Tecnologías de la Información de la Universidad Politécnica de Victoria.
+- 🚀 Busco oportunidades para aplicar mis habilidades técnicas y liderazgo en proyectos innovadores que impulsen el éxito empresarial.
 
-### Habilidades
-- **Lenguajes de Programación:** .NET, C#
-- **Metodologías:** Agile, Scrum
-- **Herramientas:** Jira, Git
-- **Intereses:** Machine Learning, Análisis de Datos
-<!-- 
-### Proyectos Destacados
-- **[Portal de Pago de Facturas de Teléfono](enlace-a-repositorio):** Gestión y desarrollo del backend para una plataforma de pagos en una empresa de software. 
--->
-<!-- 
-### Estadísticas de GitHub
-![Raúl Balleza's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)
--->
-### Objetivos y Certificaciones
-Actualmente, no cuento con certificaciones, pero estoy interesado en obtener la certificación de **Cloud Practitioner de AWS**. Siempre he tenido un interés en el machine learning y el análisis de datos, y espero poder explorar y avanzar en estas áreas en el futuro.
+## Habilidades
+- **Lenguajes de Programación:** C\#(.NET), Python (Django), JavaScript
+- **Frameworks:** .NET Framework, Django
+- **Herramientas:** Amazon Web Services, Docker, Redis, Git
+- **Bases de Datos:** MySQL, SQLite 3, SQL Server, PostgreSQL
 
-<!-- 
-### Open Source Contributions
-- **[Proyecto Open Source 1](enlace-a-repositorio):** Breve descripción del proyecto y tu contribución.
-- **[Proyecto Open Source 2](enlace-a-repositorio):** Breve descripción del proyecto y tu contribución.
--->
-<!-- 
-### Blog y Artículos
-- **[Artículo 1 en Medium](enlace-al-articulo):** Breve descripción del artículo.
-- **[Artículo 2 en Blog Personal](enlace-al-articulo):** Breve descripción del artículo.
--->
-### Contacto
-- **LinkedIn:** https://www.linkedin.com/in/raulballeza
-- **Correo Electrónico:** balleza.raul@outlook.com
+## Experiencia Laboral
+- **Htech** (Sep 2021 - Presente)
+  - Desarrollador de Back-end .NET | Líder Técnico
+  - Responsable del desarrollo, mantenimiento y administración de un portal de pagos de facturas de servicios telefónicos en varios países de América Central.
 
-¡Gracias por visitar mi perfil!
+- **Steta\&Malo** (Ago 2020 - Ago 2021)
+  - Desarrollador de Back-end Python
+  - Contribución al desarrollo del ERP 'SIGO' para el Banco de Alimentos de México.
 
----
-"El único modo de hacer un gran trabajo es amar lo que haces." - Steve Jobs
+## Proyectos Destacados
+- **Portal de Pagos de Facturas de Servicios Telefónicos:** Desarrollo y liderazgo técnico en un proyecto regional para un portal de pagos de facturas de servicios telefónicos, utilizando .NET Framework, Docker, AWS, MySQL, etc.
+- **ERP 'SIGO' para el Banco de Alimentos:** Contribución al desarrollo de un sistema de gestión empresarial para el Banco de Alimentos de México, utilizando Django y SQL Server.
+
+## Contacto
+¡Si estás interesado en trabajar juntos o tienes alguna pregunta, no dudes en contactarme!
+- 📧 Correo electrónico: balleza.raul@outlook.com
+- 💼 LinkedIn: [linkedin.com/in/raulballeza](https://www.linkedin.com/in/raulballeza/)
